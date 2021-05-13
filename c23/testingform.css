@@ -1,0 +1,60 @@
+ul{
+    display: flex; 
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    
+    }
+    ul li a{
+        list-style: none;
+        text-transform: uppercase;
+        color: rgb(255, 230, 0);
+        font-size:50px;
+    list-style:none;
+    }
+    .formhead h1 {
+    color:red;
+    width:800px;
+    margin:auto;
+    background-color:rgba(100,200,15,0.5);
+    text-align:center;
+
+    }
+
+    .form{
+        color:red;
+        width: 700px;
+        margin:auto;
+        background-color:rgba(100,200,15,0.5);
+        padding:50px;
+
+
+    
+    }
+    #name{
+      position:relative;
+      left:200px;
+      top:-50px;
+
+       }
+       #profession{
+        position:relative;
+        left:200px;
+        top:-50px;
+        
+         }
+         #date{
+            position:relative;
+            left:200px;
+            top:-50px;
+         }
+         #state{
+            position:relative;
+            left:200px;
+            top:-50px;
+         }
+         #submit{
+            position:relative;
+            left:200px;
+            top:+10px;
+         }
+    
